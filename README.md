@@ -9,6 +9,7 @@ Développeur indépendant, je crée des applis gratuites, sans pub ni abonnement
 | 🎯 | **[Cadranote](https://github.com/syl-craft/cadranote)** | Extension navigateur : cibler des éléments d'une page pour une IA · *Browser extension to target page elements for an AI* |
 | 🖼️ | **[PicaLite](https://github.com/syl-craft/PicaLite)** | Visionneuse et organiseur de photos et vidéos pour Windows · *Photo & video viewer for Windows* |
 | 🖥️ | **[AlterVNC](https://github.com/syl-craft/AlterVNC)** | Piloter son Mac depuis son PC · *Control your Mac from your PC* |
+| 🔄 | **[Mue](https://github.com/syl-craft/Mue)** | Bibliothèque C# de mise à jour automatique pour applis .NET (WPF, Avalonia) · *Self-updates for .NET desktop apps* |
 
 Si l'une d'elles te rend service, un café m'aide à continuer · *If one of them helps you, a coffee keeps me going*
 
