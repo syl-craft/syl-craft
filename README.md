@@ -3,7 +3,7 @@
 Développeur indépendant, je crée des applis gratuites.
 *Indie developer building free apps.*
 
-| | Appli | Plateformes | En bref | En cours |
+| | Appli | Plateformes | En bref | En&nbsp;cours |
 |---|---|---|---|---|
 | <a href="https://github.com/syl-craft/DockPad"><img src="icons/dockpad.png" alt="" width="32" height="32"></a> | **[DockPad](https://github.com/syl-craft/DockPad)** | <a href="https://github.com/syl-craft/DockPad/releases/latest"><img src="icons/platforms/windows.png" alt="Windows" title="Windows" width="20" height="20"></a> | Barre de lancement rapide pour Windows · *Quick launch bar for Windows* |  |
 | <a href="https://github.com/syl-craft/cadranote"><img src="icons/cadranote.png" alt="" width="32" height="32"></a> | **[Cadranote](https://github.com/syl-craft/cadranote)** | <a href="https://chromewebstore.google.com/detail/khmlkbonkmhahppkbpcgamcbjdjhlpmk"><img src="icons/platforms/googlechrome.png" alt="Chrome" title="Chrome" width="20" height="20"></a> <a href="https://addons.mozilla.org/firefox/addon/cadranote-cibler-pour-une-ia/"><img src="icons/platforms/firefoxbrowser.png" alt="Firefox" title="Firefox" width="20" height="20"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/fnkagnlaabojnkmfnpihcckcejhkaech"><img src="icons/platforms/microsoftedge.png" alt="Edge" title="Edge" width="20" height="20"></a> | Extension navigateur : cibler des éléments d'une page pour une IA · *Browser extension to target page elements for an AI* |  |
