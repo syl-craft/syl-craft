@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Syl-Craft — des applis gratuites, faites avec soin : DockPad, Cadranote, PicaLite, AlterVNC, Mue" width="100%">
 
-Développeur indépendant, je crée des applis gratuites, sans pub ni abonnement.
-*Indie developer building free apps — no ads, no subscription.*
+Développeur indépendant, je crée des applis gratuites.
+*Indie developer building free apps.*
 
 | | Appli | Plateformes | En bref |
 |---|---|---|---|
