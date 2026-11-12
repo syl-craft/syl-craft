@@ -11,6 +11,7 @@ const out = path.resolve(__dirname, "../icons/platforms");
 const platforms = {
   windows: "#0078D6",
   apple: "#A2AAAD",
+  ios: "#A2AAAD",
   android: "#3DDC84",
   googlechrome: "#4285F4",
   firefoxbrowser: "#FF7139",
